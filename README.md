@@ -36,6 +36,10 @@ The site is structured as following:
 [sefyWebStructure](https://drive.google.com/open?id=1O9fzcxTxWmiI6V8G7GnufwlRNsBd9IdM)
 
 
+## Contacts
+
+If you have any questions regarding the site, email me at le_k1@denison.edu
+
 ## Acknowledgments
 
 * Hat tip to Avana LLC. 
