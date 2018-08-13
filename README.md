@@ -33,7 +33,7 @@ Right click on the file to choose if you want to open it on a text editor to vie
 
 The site is structured as following:
 
-![alt text](https://drive.google.com/file/d/1O9fzcxTxWmiI6V8G7GnufwlRNsBd9IdM/view?usp=sharing)
+[a link](https://drive.google.com/open?id=1O9fzcxTxWmiI6V8G7GnufwlRNsBd9IdM)
 
 
 ## Acknowledgments
