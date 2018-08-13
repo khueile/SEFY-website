@@ -3,7 +3,7 @@ Sexual Education For You's official website. Created based on Avana.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ Right click on the file to choose if you want to open it on a text editor to vie
 
 The site is structured as following:
 
-[a link](https://drive.google.com/open?id=1O9fzcxTxWmiI6V8G7GnufwlRNsBd9IdM)
+[sefyWebStructure](https://drive.google.com/open?id=1O9fzcxTxWmiI6V8G7GnufwlRNsBd9IdM)
 
 
 ## Acknowledgments
