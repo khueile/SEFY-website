@@ -1,5 +1,5 @@
 # SEFY-website
-Sexual Education For You's official website. Created based on Avana.
+SEFY's official website. Created based on Avana.
 
 ## Getting Started
 
